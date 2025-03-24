@@ -36,6 +36,6 @@ Quickly clears the Markdown input and resets the preview.
 - [
 Marked Documentation click ](https://marked.js.org/)
 
-# 🚀 Getting Started
-- **Clone the Repository:**  
+# 🚀 Clone this Repository
+ 
   [https://github.com/Sah-Rahul/Markdown-Previewer.git](https://github.com/Sah-Rahul/Markdown-Previewer.git)
